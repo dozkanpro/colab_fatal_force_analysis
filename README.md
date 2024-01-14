@@ -63,4 +63,4 @@ To run the code and reproduce the analysis, follow these steps:
 <div align="center"><img src="fatal_force_7.png" alt="UI Screenshot"/></div> 
 
 - **Comparing the Total Number of Deaths of Men and Women:**
-<div align="center"><img src="fatal_force_8.png" alt="UI Screenshot"/></div>
+<div align="center"><img src="fatal_force_end.png" alt="UI Screenshot"/></div>
